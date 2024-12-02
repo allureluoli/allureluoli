@@ -25,5 +25,14 @@ I seek free , I desire luck.
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=golang" alt="Golang"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-  
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=godot" alt="Godot"/>
+
+  ### Dev Tools
+  [![bash](https://skillicons.dev/icons?i=powershell,vim,visualstudio,vscode)](https://skillicons.dev)
+  [![jetbrains](https://skillicons.dev/icons?i=clion,idea,phpstorm,pycharm,rider,webstorm)](https://skillicons.dev)
+  [![database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+  [![devtools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,,md,npm)](https://skillicons.dev)
   
