@@ -41,7 +41,7 @@ I seek free , I desire luck.
   [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows)](https://skillicons.dev)
   ### My Socialize
   [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/DevilC1875)
-  [![Dis](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+  [![Dis](https://skillicons.dev/icons?i=discord)](https://discord.com/users/allureluoli) 
   
 
 
