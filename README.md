@@ -32,7 +32,7 @@ I seek free , I desire luck.
 
   ### Dev Tools
   [![bash](https://skillicons.dev/icons?i=powershell,vim,visualstudio,vscode)](https://skillicons.dev)
-  [![jetbrains](https://skillicons.dev/icons?i=clion,idea,phpstorm,pycharm,webstorm)](https://skillicons.dev)
+  [![jetbrains](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,webstorm)](https://skillicons.dev)
   [![database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
   [![devtools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,md,npm)](https://skillicons.dev)
   ### Audio & Media
