@@ -38,7 +38,7 @@ I seek free , I desire luck.
   ### Audio & Media
   [![adobe](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)
   ## 🖥 My Device
-  [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows)](https://skillicons.dev)
+  [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows)](https://skillicons.dev)
 
 
 
