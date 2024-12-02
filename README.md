@@ -39,7 +39,7 @@ I seek free , I desire luck.
   [![adobe](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)
   ## 🖥 My Device
   [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows)](https://skillicons.dev)
-  #### My Socialize
+  ### My Socialize
   [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/DevilC1875)
   [![Dis](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
   
