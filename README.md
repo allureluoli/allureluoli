@@ -19,10 +19,10 @@ I seek free , I desire luck.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://skillicons.dev/icons?i=cs" alt="C#"/>
+   <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" alt="python"/>
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=golang" alt="Golang"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
