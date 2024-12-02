@@ -40,8 +40,8 @@ I seek free , I desire luck.
   ## 🖥 My Device
   [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows)](https://skillicons.dev)
   #### My Socialize
-  [![device](https://skillicons.dev/icons?twitter)](https://x.com/DevilC1875)]
-  [![device]([https://skillicons.dev/icons?discord])]
+  [![device](https://skillicons.dev/icons?i=twitter)](https://x.com/DevilC1875)
+  [![device](https://skillicons.dev/icons?i=discord)]
   
 
 
