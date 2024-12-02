@@ -35,6 +35,7 @@ I seek free , I desire luck.
   [![jetbrains](https://skillicons.dev/icons?i=clion,idea,phpstorm,pycharm,rider,webstorm)](https://skillicons.dev)
   [![database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
   [![devtools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,md,npm)](https://skillicons.dev)
+  [![test](https://wiki.codeblocks.org/index.php/Main_Page)]
   ### Audio & Medi
   [![adobe](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)
   ## 🖥 My Device
