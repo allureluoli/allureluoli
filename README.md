@@ -34,11 +34,15 @@ I seek free , I desire luck.
   [![bash](https://skillicons.dev/icons?i=powershell,vim,visualstudio,vscode)](https://skillicons.dev)
   [![jetbrains](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,webstorm)](https://skillicons.dev)
   [![database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-  [![devtools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,md,npm,docker)](https://skillicons.dev)
+  [![devtools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,md,npm,docker,bootstrap,dotnet,github,nginx)](https://skillicons.dev)
   ### Audio & Media
   [![adobe](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)
   ## 🖥 My Device
   [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows)](https://skillicons.dev)
+  #### My Socialize
+  [![device](https://skillicons.dev/icons?twitter)](https://x.com/DevilC1875)]
+  [![device]([https://skillicons.dev/icons?discord])]
+  
 
 
 
