@@ -25,6 +25,7 @@ I seek free , I desire luck.
    <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" alt="python"/>
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=golang" alt="Golang"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
