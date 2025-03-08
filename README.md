@@ -1,54 +1,89 @@
-### Ciallo ~~ World ~👋 I am Cute Dev~~~ 
-～(∠・ω< )⌒☆
-～(∠・ω< )⌒☆
-～(∠・ω< )⌒☆～(∠・ω< )⌒☆～(∠・ω< )⌒☆
+## 🌙 Ciallo ~~ World ~👋
 
-Claims to be "Two Moon"
+### I am Cute Dev ~ Two Moon ~ ✨
 
-Code Beginner， seek technical power, want use technical power find authentic love.
+> ～(∠・ω< )⌒☆ ～(∠・ω< )⌒☆ ～(∠・ω< )⌒☆ ～(∠・ω< )⌒☆
 
-I seek free , I desire luck.
+🔹 **Red Team | InfoSec Student | Full Stack Developer**  
+🔹 **Seeker of Freedom & Luck** 🍀  
+🔹 **Code Beginner on the Path to Technical Power**  
+
+💻 Writing code, breaking barriers, and maybe finding authentic love through technology. ❤️  
+
+🌸 **Also, a passionate anime lover!** 🎵💖  
+I adore:  
+⚡ 御坂美琴（⚡超电磁炮）  
+🐱 梓喵（🎸轻音部最可爱！）  
+🐍 清姬（🔥蛇姬的爱意）  
+⚔️ Saber（🏰圆桌骑士王）  
+🎤 Miku（🎶世界第一公主殿下）  
+🎶 洛天依（🌙国风歌姬）  
+❄️ 琪露诺（❄️最强的⑨）  
+🦇 芙兰朵露（🩸吸血鬼萝莉）  
+🏇 东海帝皇（🏆燃烧的冠军）  
+💥 重炮（🔫最可爱）  
+🎠 目白麦昆（💎优雅的皇族）  
+🍚 米浴（🍚元气满满！）  
+🚗 八六（🏎️爱上火车）  
+🌧️ 丛雨（🌂温柔又可爱）  
+🐾 柴郡（🐱小恶魔猫猫）  
+⚔️ 莫德雷德（👑叛逆骑士）  
+🔮 小鸟游六花（🔯中二病！）  
+🌸 春日野穹（🎀白发天使）  
+🐱 TTT喵（🐾可爱又迷人）  
+🌙 有栖nama（🌟虚拟偶像）  
+📖 长门有希（📚安静的书虫）  
+🔔 响（⛩️舰娘铃声）  
+🎼 立华奏（🎵天使的旋律）  
+🤖 艾拉（💔Plastic Memories）  
+🔪 奇犽·揍敌客（⚡暗杀天才）  
+🕊️ 小南（📜天使纸术）  
+🎮 泉此方（🎮宅女之王）  
+✨ 亚托莉（🌠命运交响曲）  
+🖤 黑塔（🕶️星穹铁道）  
+🐺 银狼（🎮黑客萝莉）  
+🔮 符玄（📜天命智者）  
+🎀✨
 
 ---
 
-#### About My Code
+### 📊 About My Code
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=allureluoli&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=allureluoli&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=allureluoli&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=allureluoli&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
+---
 
-## 📕 Technology Stack
+## 🚀 Tech Stack
 
-### Programming Languages
-
+### 💻 Programming Languages
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#"/>
-   <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" alt="python"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/>
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=golang" alt="Golang"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=godot" alt="Godot"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,kotlin,rust,java,golang,js,php,html,css,godot" alt="Tech Stack"/>
+</div>
 
-  ### Dev Tools
-  [![bash](https://skillicons.dev/icons?i=powershell,vim,visualstudio,vscode)](https://skillicons.dev)
-  [![jetbrains](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,webstorm)](https://skillicons.dev)
-  [![database](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-  [![devtools](https://skillicons.dev/icons?i=androidstudio,cmake,git,gradle,md,npm,docker,bootstrap,dotnet,github,nginx)](https://skillicons.dev)
-  ### Audio & Media
-  [![adobe](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)
-  ## 🖥 My Device
-  [![device](https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows)](https://skillicons.dev)
-  ### My Socialize
-  [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/DevilC1875)
-  [![Dis](https://skillicons.dev/icons?i=discord)](https://discord.com/users/allureluoli) 
-  
+### 🛠 Dev Tools
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://skillicons.dev/icons?i=powershell,vim,visualstudio,vscode,idea,phpstorm,pycharm,webstorm" alt="Dev Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,cmake,git,gradle,npm,docker,bootstrap,dotnet,github,nginx" alt="Dev Tools"/>
+</div>
 
+### 🎧 Audio & Media
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://skillicons.dev/icons?i=pr,ps" alt="Media Editing"/>
+</div>
 
+### 🖥 My Devices
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows" alt="Operating Systems"/>
+</div>
 
+---
 
-  
+## 🌐 Connect with Me
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/DevilC1875)  
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/allureluoli)  
+
+---
+
+> _"Hacking the system, coding my destiny, and embracing the moonlight."_ 🌙
+
