@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6" />
-  <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd" />
+  <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&hide=smali&exclude_repo=base_rank_server_room,base_rank_server_core,github-readme-stats" />
 </div>
 
 ### ⚡️ Waifu Core
