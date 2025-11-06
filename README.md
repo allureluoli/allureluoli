@@ -8,8 +8,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=allureluoli&theme=dracula&row=1&column=7&margin-w=15&no-frame=true" alt="Trophies"/>
 
 <div align="center">
-  <img src="https://github-readme-stats-b39s.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6" />
-  <img src="https://github-readme-stats-b39s.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd" />
+  <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6" />
+  <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd" />
 </div>
 
 ### ⚡️ Waifu Core
