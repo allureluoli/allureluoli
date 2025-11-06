@@ -1,88 +1,40 @@
-## 🌙 Ciallo ~~ World ~👋
+# 🌙 Ciallo～ Two Moon World 👋
 
-### I am Cute Dev ~ Two Moon ~ ✨
+<img src="https://moe-counter.glitch.me/get/@allureluoli?theme=rule8" align="right" alt="Visitors"/>
 
-> ～(∠・ω< )⌒☆ ～(∠・ω< )⌒☆ ～(∠・ω< )⌒☆ ～(∠・ω< )⌒☆
+> **Red Team × Full-Stack × Waifu-Powered Dev** ⚡️🍀  
+> `～(∠・ω< )⌒☆` 月光下的代码狂魔，握碎一切防火墙
 
-🔹 **Red Team | InfoSec Student | Full Stack Developer**  
-🔹 **Seeker of Freedom & Luck** 🍀  
-🔹 **Code Beginner on the Path to Technical Power**  
+<img src="https://github-profile-trophy.vercel.app/?username=allureluoli&theme=dracula&row=1&column=7&margin-w=15&no-frame=true" alt="Trophies"/>
 
-💻 Writing code, breaking barriers, and maybe finding authentic love through technology. ❤️  
-
-🌸 **Also, a passionate anime lover!** 🎵💖  
-I adore:  
-⚡ 御坂美琴（⚡超电磁炮）  
-🐱 梓喵（🎸轻音部最可爱！）  
-🐍 清姬（🔥蛇姬的爱意）  
-⚔️ Saber（🏰圆桌骑士王）  
-🎤 Miku（🎶世界第一公主殿下）  
-🎶 洛天依（🌙国风歌姬）  
-❄️ 琪露诺（❄️最强的⑨）  
-🦇 芙兰朵露（🩸吸血鬼萝莉）  
-🏇 东海帝皇（🏆燃烧的冠军）  
-💥 重炮（🔫最可爱）  
-🎠 目白麦昆（💎优雅的皇族）  
-🍚 米浴（🍚元气满满！）  
-🚗 八六（🏎️爱上火车）  
-🌧️ 丛雨（🌂温柔又可爱）  
-🐾 柴郡（🐱小恶魔猫猫）  
-⚔️ 莫德雷德（👑叛逆骑士）  
-🔮 小鸟游六花（🔯中二病！）  
-🌸 春日野穹（🎀白发天使）  
-🐱 TTT喵（🐾可爱又迷人）  
-🌙 有栖nama（🌟虚拟偶像）  
-📖 长门有希（📚安静的书虫）  
-🔔 响（⛩️舰娘铃声）  
-🎼 立华奏（🎵天使的旋律）  
-🤖 艾拉（💔Plastic Memories）  
-🔪 奇犽·揍敌客（⚡暗杀天才）  
-🕊️ 小南（📜天使纸术）  
-🎮 泉此方（🎮宅女之王）  
-✨ 亚托莉（🌠命运交响曲）  
-🖤 黑塔（🕶️星穹铁道）  
-🐺 银狼（🎮黑客萝莉）  
-🔮 符玄（📜天命智者）  
-🎀✨
-
----
-
-### 📊 About My Code
-<img height="130px" src="https://github-readme-stats-b39s.vercel.app/api?username=allureluoli&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats-b39s.vercel.app/api/top-langs?username=allureluoli&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,kotlin,rust,java,golang,js,php,html,css,godot" alt="Tech Stack"/>
+<div align="center">
+  <img src="https://github-readme-stats-b39s.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6" />
+  <img src="https://github-readme-stats-b39s.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd" />
 </div>
 
-### 🛠 Dev Tools
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://skillicons.dev/icons?i=powershell,vim,visualstudio,vscode,idea,phpstorm,pycharm,webstorm" alt="Dev Tools"/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,cmake,git,gradle,npm,docker,bootstrap,dotnet,github,nginx" alt="Dev Tools"/>
-</div>
+### ⚡️ Waifu Core
+```yaml
+Level 100: 御坂美琴 ⚡️
+Level 99 : 芙兰朵露 🦇 (514/514)
+Level 98 : 银狼 🐺 (hacking waifu)
+Level 97 : 梓喵 🐱 + Miku 🎤
+Level ⑨  : 琪露诺 ❄️ (最强)
 
-### 🎧 Audio & Media
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://skillicons.dev/icons?i=pr,ps" alt="Media Editing"/>
-</div>
+```
+🧰 Cyber Arsenal
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,rust,kotlin,go,java,js,php,html,css,kali,linux,debian,ubuntu,vscode,vim,docker,git,nginx,mysql,androidstudio&theme=dark&perline=15"/>
+🔥 Streak & Power
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=allureluoli&theme=dracula&hide_border=true&background=1a1a2e&stroke=ff79c6&ring=ff79c6&fire=ff79c6&currStreakLabel=8be9fd&sideLabels=bd93f9&dates=8be9fd" />
 
-### 🖥 My Devices
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,redhat,kali,windows" alt="Operating Systems"/>
-</div>
+📡 Signal
 
----
+<img src="https://img.shields.io/badge/DevilC1875-000000?style=for-the-badge&#x26;logo=x&#x26;logoColor=white">
+<img src="https://img.shields.io/badge/allureluoli-5865F2?style=for-the-badge&#x26;logo=discord&#x26;logoColor=white">
 
-## 🌐 Connect with Me
+> _"Code in moonlight, break in silence, love in 50,000V." ⚡️🌙
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/DevilC1875)  
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/allureluoli)  
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,21&height=200&section=footer&text=&fontSize=0" />
+Warning: 本仓库已部署蕾米莉亚的命运结界 + 芙兰的⑨球阵列，入侵=被握碎哦~ 🦇💥
 
 > _"Hacking the system, coding my destiny, and embracing the moonlight."_ 🌙
 
