@@ -11,7 +11,7 @@
     <tr>
       <td valign="top">
         <img src="https://files.catbox.moe/9rrp2l.gif" width="180"/>
-        <br/>⚡️ 50,000V 守護中 ⚡️
+        <br/> ♥ 大家来一起写代码鸭 ♥
         <br/><br/>
         <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6"/>
       </td>
