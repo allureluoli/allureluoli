@@ -7,20 +7,20 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=allureluoli&theme=dracula&row=1&column=7&margin-w=15&no-frame=true" alt="Trophies"/>
 <div align="center">
-
-  <div align="center" style="float: left; width: 48%;">
-    <img src="https://files.catbox.moe/9rrp2l.gif" width="180"/>
-    <br/>⚡️ 50,000V 守護中 ⚡️
-    <br/><br/>
-    <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6" />
-  </div>
-
-  <div align="center" style="float: right; width: 48%;">
-    <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&hide=smali&exclude_repo=base_rank_server_room,base_rank_server_core,github-readme-stats&langs_count=20" />
-  </div>
-
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://files.catbox.moe/9rrp2l.gif" width="180"/>
+        <br/>⚡️ 50,000V 守護中 ⚡️
+        <br/><br/>
+        <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api?username=allureluoli&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&icon_color=ff79c6"/>
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats-git-main-allureluolis-projects.vercel.app/api/top-langs?username=allureluoli&layout=donut&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=8be9fd&hide=smali&exclude_repo=base_rank_server_room,base_rank_server_core,github-readme-stats&langs_count=20"/>
+      </td>
+    </tr>
+  </table>
 </div>
-<br style="clear: both;"/>
 
 ### ⚡️ Waifu Core
 ```yaml
